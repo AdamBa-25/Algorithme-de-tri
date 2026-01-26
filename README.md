@@ -1,4 +1,4 @@
-# Algorithme-de-tri
+# Visualiseur d'algorithme de tri
 
 Visualisation simple des principaux algorithmes de tri directement dans le terminal.
 
