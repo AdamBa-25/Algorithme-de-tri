@@ -11,7 +11,7 @@ Chaque valeur du tableau est représentée par une colonne de blocs (`■`) dont
 
 L’utilisateur peut :
 - choisir la taille du tableau (entre 3 et 20),
-- Zélectionner un algorithme de tri,
+- Sélectionner un algorithme de tri,
 - observer étape par étape le déroulement du tri dans le terminal.
 
 Ce projet est particulièrement intéressant pour les personnes comme moi qui ne comprennent pas les fonctionnement des algorithmes de tri car ce programme permet une visualisation claire de ceux-ci.
