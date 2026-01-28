@@ -43,4 +43,4 @@ Se mettre dans un terminal dans l'emplacement où le projet est téléchargé et
 
 ```bash
 javac tri.java
-java tri
+java tri -encoding utf-8
